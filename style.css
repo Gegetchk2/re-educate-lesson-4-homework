@@ -1,6 +1,12 @@
 ul {
     display: flex;
     flex-direction: row;
-    color: red;
+    color: rgb(147, 83, 83);
     gap: 30px;
+    margin-left: 500px;
+}
+h1 {
+    color: rgb(147, 83, 83);
+    height: 40px;
+    width: 200px;
 }
