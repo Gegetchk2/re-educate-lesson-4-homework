@@ -1,7 +1,10 @@
+header {
+    background-color: cadetblue;
+    height: 100px;
+}
 ul {
     display: flex;
     flex-direction: row;
-    color: rgb(147, 83, 83);
     gap: 30px;
     margin-left: 500px;
 }
@@ -13,4 +16,7 @@ h1 {
 img {
     height: 300px;
     width: 300px;
+}
+footer {
+    background-color: cadetblue;
 }
